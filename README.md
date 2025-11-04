@@ -17,4 +17,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Rashad786/DSA-Assignment/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Rashad786/DSA-Assignment/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Rashad786/DSA-Assignment/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Rashad786/DSA-Assignment/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
