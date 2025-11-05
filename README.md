@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Rashad786/DSA-Assignment/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/Rashad786/DSA-Assignment/tree/master/0279-perfect-squares) |
+| [0923-super-egg-drop](https://github.com/Rashad786/DSA-Assignment/tree/master/0923-super-egg-drop) |
 | [1013-fibonacci-number](https://github.com/Rashad786/DSA-Assignment/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Rashad786/DSA-Assignment/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/Rashad786/DSA-Assignment/tree/master/0279-perfect-squares) |
 | [0747-min-cost-climbing-stairs](https://github.com/Rashad786/DSA-Assignment/tree/master/0747-min-cost-climbing-stairs) |
+| [0923-super-egg-drop](https://github.com/Rashad786/DSA-Assignment/tree/master/0923-super-egg-drop) |
 | [1013-fibonacci-number](https://github.com/Rashad786/DSA-Assignment/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -44,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Rashad786/DSA-Assignment/tree/master/0279-perfect-squares) |
+## Binary Search
+|  |
+| ------- |
+| [0923-super-egg-drop](https://github.com/Rashad786/DSA-Assignment/tree/master/0923-super-egg-drop) |
 <!---LeetCode Topics End-->
