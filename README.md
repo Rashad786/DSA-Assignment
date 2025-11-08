@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Rashad786/DSA-Assignment/tree/master/0044-wildcard-matching) |
 | [0070-climbing-stairs](https://github.com/Rashad786/DSA-Assignment/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/Rashad786/DSA-Assignment/tree/master/0279-perfect-squares) |
+| [0337-house-robber-iii](https://github.com/Rashad786/DSA-Assignment/tree/master/0337-house-robber-iii) |
 | [0516-longest-palindromic-subsequence](https://github.com/Rashad786/DSA-Assignment/tree/master/0516-longest-palindromic-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/Rashad786/DSA-Assignment/tree/master/0747-min-cost-climbing-stairs) |
 | [0923-super-egg-drop](https://github.com/Rashad786/DSA-Assignment/tree/master/0923-super-egg-drop) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0337-house-robber-iii](https://github.com/Rashad786/DSA-Assignment/tree/master/0337-house-robber-iii) |
 | [3863-power-grid-maintenance](https://github.com/Rashad786/DSA-Assignment/tree/master/3863-power-grid-maintenance) |
 ## Union Find
 |  |
@@ -100,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Rashad786/DSA-Assignment/tree/master/2618-maximize-the-minimum-powered-city) |
+## Tree
+|  |
+| ------- |
+| [0337-house-robber-iii](https://github.com/Rashad786/DSA-Assignment/tree/master/0337-house-robber-iii) |
+## Binary Tree
+|  |
+| ------- |
+| [0337-house-robber-iii](https://github.com/Rashad786/DSA-Assignment/tree/master/0337-house-robber-iii) |
 <!---LeetCode Topics End-->
