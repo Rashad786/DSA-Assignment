@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Rashad786/DSA-Assignment/tree/master/0045-jump-game-ii) |
 | [0474-ones-and-zeroes](https://github.com/Rashad786/DSA-Assignment/tree/master/0474-ones-and-zeroes) |
 | [0747-min-cost-climbing-stairs](https://github.com/Rashad786/DSA-Assignment/tree/master/0747-min-cost-climbing-stairs) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Rashad786/DSA-Assignment/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Rashad786/DSA-Assignment/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/Rashad786/DSA-Assignment/tree/master/2625-increment-submatrices-by-one) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Rashad786/DSA-Assignment/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Rashad786/DSA-Assignment/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Rashad786/DSA-Assignment/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Rashad786/DSA-Assignment/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3863-power-grid-maintenance](https://github.com/Rashad786/DSA-Assignment/tree/master/3863-power-grid-maintenance) |
@@ -152,4 +154,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2625-increment-submatrices-by-one](https://github.com/Rashad786/DSA-Assignment/tree/master/2625-increment-submatrices-by-one) |
+## Sorting
+|  |
+| ------- |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Rashad786/DSA-Assignment/tree/master/2274-keep-multiplying-found-values-by-two) |
+## Simulation
+|  |
+| ------- |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Rashad786/DSA-Assignment/tree/master/2274-keep-multiplying-found-values-by-two) |
 <!---LeetCode Topics End-->
