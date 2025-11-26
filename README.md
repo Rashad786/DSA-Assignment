@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/Rashad786/DSA-Assignment/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/Rashad786/DSA-Assignment/tree/master/0182-duplicate-emails) |
 | [0184-department-highest-salary](https://github.com/Rashad786/DSA-Assignment/tree/master/0184-department-highest-salary) |
+| [0577-employee-bonus](https://github.com/Rashad786/DSA-Assignment/tree/master/0577-employee-bonus) |
 | [0595-big-countries](https://github.com/Rashad786/DSA-Assignment/tree/master/0595-big-countries) |
 | [0619-biggest-single-number](https://github.com/Rashad786/DSA-Assignment/tree/master/0619-biggest-single-number) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Rashad786/DSA-Assignment/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
