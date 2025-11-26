@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/Rashad786/DSA-Assignment/tree/master/0595-big-countries) |
 | [0619-biggest-single-number](https://github.com/Rashad786/DSA-Assignment/tree/master/0619-biggest-single-number) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Rashad786/DSA-Assignment/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1661-average-time-of-process-per-machine](https://github.com/Rashad786/DSA-Assignment/tree/master/1661-average-time-of-process-per-machine) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Rashad786/DSA-Assignment/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/Rashad786/DSA-Assignment/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Rashad786/DSA-Assignment/tree/master/1908-recyclable-and-low-fat-products) |
