@@ -1,0 +1,26 @@
+class Solution {
+    int MOD = 1000000007;
+    int dp[][][];
+    public int numberOfPaths(int[][] grid, int k) {
+        int m = grid.length;
+        int n = grid[0].length;
+        dp = new int[m][n][k];
+
+        dp[0][0][ grid[0][0] % k ] = 1;
+
+        for(int i=0;i<m;i++) {
+            for(int j=0;j<n;j++) {
+                if (i == 0 && j == 0) continue;
+                for (int mod = 0; mod < k; mod++) {
+
+                    int newSum = (mod + grid[i][j]) % k;
+
+                    if (i > 0) dp[i][j][newSum] = (dp[i][j][newSum] + dp[i-1][j][mod]) % MOD;
+                    
+                    if (j > 0) dp[i][j][newSum] = (dp[i][j][newSum] + dp[i][j-1][mod]) % MOD;
+                }
+            }
+        }
+        return dp[m-1][n-1][0];
+    }
+}
