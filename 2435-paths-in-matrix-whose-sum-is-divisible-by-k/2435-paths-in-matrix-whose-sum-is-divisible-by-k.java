@@ -11,7 +11,7 @@ class Solution {
         for(int i=0;i<m;i++) {
             for(int j=0;j<n;j++) {
                 if (i == 0 && j == 0) continue;
-                for (int mod = 0; mod < k; mod++) {
+                for (int mod = k-1; mod >= 0; mod--) {
 
                     int newSum = (mod + grid[i][j]) % k;
 
