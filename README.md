@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/Rashad786/DSA-Assignment/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1480-running-sum-of-1d-array](https://github.com/Rashad786/DSA-Assignment/tree/master/1480-running-sum-of-1d-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Rashad786/DSA-Assignment/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Rashad786/DSA-Assignment/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rashad786/DSA-Assignment/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Rashad786/DSA-Assignment/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Rashad786/DSA-Assignment/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Rashad786/DSA-Assignment/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Rashad786/DSA-Assignment/tree/master/0045-jump-game-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Rashad786/DSA-Assignment/tree/master/1262-greatest-sum-divisible-by-three) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Rashad786/DSA-Assignment/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Rashad786/DSA-Assignment/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Depth-First Search
 |  |
