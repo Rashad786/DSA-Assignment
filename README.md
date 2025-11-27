@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Rashad786/DSA-Assignment/tree/master/0112-path-sum) |
 | [0279-perfect-squares](https://github.com/Rashad786/DSA-Assignment/tree/master/0279-perfect-squares) |
 | [3863-power-grid-maintenance](https://github.com/Rashad786/DSA-Assignment/tree/master/3863-power-grid-maintenance) |
 ## Binary Search
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Rashad786/DSA-Assignment/tree/master/0098-validate-binary-search-tree) |
+| [0112-path-sum](https://github.com/Rashad786/DSA-Assignment/tree/master/0112-path-sum) |
 | [0337-house-robber-iii](https://github.com/Rashad786/DSA-Assignment/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Rashad786/DSA-Assignment/tree/master/0543-diameter-of-binary-tree) |
 | [3863-power-grid-maintenance](https://github.com/Rashad786/DSA-Assignment/tree/master/3863-power-grid-maintenance) |
@@ -151,12 +153,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Rashad786/DSA-Assignment/tree/master/0098-validate-binary-search-tree) |
+| [0112-path-sum](https://github.com/Rashad786/DSA-Assignment/tree/master/0112-path-sum) |
 | [0337-house-robber-iii](https://github.com/Rashad786/DSA-Assignment/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Rashad786/DSA-Assignment/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Rashad786/DSA-Assignment/tree/master/0098-validate-binary-search-tree) |
+| [0112-path-sum](https://github.com/Rashad786/DSA-Assignment/tree/master/0112-path-sum) |
 | [0337-house-robber-iii](https://github.com/Rashad786/DSA-Assignment/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Rashad786/DSA-Assignment/tree/master/0543-diameter-of-binary-tree) |
 ## Two Pointers
