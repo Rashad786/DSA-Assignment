@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Rashad786/DSA-Assignment/tree/master/1480-running-sum-of-1d-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Rashad786/DSA-Assignment/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Rashad786/DSA-Assignment/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Rashad786/DSA-Assignment/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rashad786/DSA-Assignment/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Rashad786/DSA-Assignment/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Rashad786/DSA-Assignment/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Rashad786/DSA-Assignment/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rashad786/DSA-Assignment/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Rashad786/DSA-Assignment/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rashad786/DSA-Assignment/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Rashad786/DSA-Assignment/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Rashad786/DSA-Assignment/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Rashad786/DSA-Assignment/tree/master/0199-binary-tree-right-side-view) |
 | [0337-house-robber-iii](https://github.com/Rashad786/DSA-Assignment/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Rashad786/DSA-Assignment/tree/master/0543-diameter-of-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Rashad786/DSA-Assignment/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Rashad786/DSA-Assignment/tree/master/0199-binary-tree-right-side-view) |
 | [0337-house-robber-iii](https://github.com/Rashad786/DSA-Assignment/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Rashad786/DSA-Assignment/tree/master/0543-diameter-of-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Rashad786/DSA-Assignment/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Two Pointers
 |  |
 | ------- |
