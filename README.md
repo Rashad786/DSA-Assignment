@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2618-maximize-the-minimum-powered-city](https://github.com/Rashad786/DSA-Assignment/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/Rashad786/DSA-Assignment/tree/master/2625-increment-submatrices-by-one) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Rashad786/DSA-Assignment/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Rashad786/DSA-Assignment/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Rashad786/DSA-Assignment/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Rashad786/DSA-Assignment/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3863-power-grid-maintenance](https://github.com/Rashad786/DSA-Assignment/tree/master/3863-power-grid-maintenance) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/Rashad786/DSA-Assignment/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rashad786/DSA-Assignment/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rashad786/DSA-Assignment/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Rashad786/DSA-Assignment/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Rashad786/DSA-Assignment/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Rashad786/DSA-Assignment/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3863-power-grid-maintenance](https://github.com/Rashad786/DSA-Assignment/tree/master/3863-power-grid-maintenance) |
@@ -196,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rashad786/DSA-Assignment/tree/master/2059-unique-length-3-palindromic-subsequences) |
+## Counting
+|  |
+| ------- |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Rashad786/DSA-Assignment/tree/master/3005-count-elements-with-maximum-frequency) |
 <!---LeetCode Topics End-->
