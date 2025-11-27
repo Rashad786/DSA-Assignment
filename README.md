@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Rashad786/DSA-Assignment/tree/master/0098-validate-binary-search-tree) |
 | [0337-house-robber-iii](https://github.com/Rashad786/DSA-Assignment/tree/master/0337-house-robber-iii) |
 | [3863-power-grid-maintenance](https://github.com/Rashad786/DSA-Assignment/tree/master/3863-power-grid-maintenance) |
 ## Union Find
@@ -148,10 +149,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Rashad786/DSA-Assignment/tree/master/0098-validate-binary-search-tree) |
 | [0337-house-robber-iii](https://github.com/Rashad786/DSA-Assignment/tree/master/0337-house-robber-iii) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Rashad786/DSA-Assignment/tree/master/0098-validate-binary-search-tree) |
 | [0337-house-robber-iii](https://github.com/Rashad786/DSA-Assignment/tree/master/0337-house-robber-iii) |
 ## Two Pointers
 |  |
@@ -205,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Rashad786/DSA-Assignment/tree/master/3005-count-elements-with-maximum-frequency) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Rashad786/DSA-Assignment/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
