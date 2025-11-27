@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rashad786/DSA-Assignment/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/Rashad786/DSA-Assignment/tree/master/0045-jump-game-ii) |
+| [0189-rotate-array](https://github.com/Rashad786/DSA-Assignment/tree/master/0189-rotate-array) |
 | [0474-ones-and-zeroes](https://github.com/Rashad786/DSA-Assignment/tree/master/0474-ones-and-zeroes) |
 | [0747-min-cost-climbing-stairs](https://github.com/Rashad786/DSA-Assignment/tree/master/0747-min-cost-climbing-stairs) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Rashad786/DSA-Assignment/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Rashad786/DSA-Assignment/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Rashad786/DSA-Assignment/tree/master/0189-rotate-array) |
 | [0233-number-of-digit-one](https://github.com/Rashad786/DSA-Assignment/tree/master/0233-number-of-digit-one) |
 | [0279-perfect-squares](https://github.com/Rashad786/DSA-Assignment/tree/master/0279-perfect-squares) |
 | [0923-super-egg-drop](https://github.com/Rashad786/DSA-Assignment/tree/master/0923-super-egg-drop) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rashad786/DSA-Assignment/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/Rashad786/DSA-Assignment/tree/master/0189-rotate-array) |
 ## Linked List
 |  |
 | ------- |
