@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/Rashad786/DSA-Assignment/tree/master/0595-big-countries) |
 | [0619-biggest-single-number](https://github.com/Rashad786/DSA-Assignment/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/Rashad786/DSA-Assignment/tree/master/0620-not-boring-movies) |
+| [1211-queries-quality-and-percentage](https://github.com/Rashad786/DSA-Assignment/tree/master/1211-queries-quality-and-percentage) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Rashad786/DSA-Assignment/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Rashad786/DSA-Assignment/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1661-average-time-of-process-per-machine](https://github.com/Rashad786/DSA-Assignment/tree/master/1661-average-time-of-process-per-machine) |
