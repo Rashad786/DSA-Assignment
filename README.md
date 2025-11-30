@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/Rashad786/DSA-Assignment/tree/master/0918-maximum-sum-circular-subarray) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Rashad786/DSA-Assignment/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1480-running-sum-of-1d-array](https://github.com/Rashad786/DSA-Assignment/tree/master/1480-running-sum-of-1d-array) |
+| [1590-make-sum-divisible-by-p](https://github.com/Rashad786/DSA-Assignment/tree/master/1590-make-sum-divisible-by-p) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Rashad786/DSA-Assignment/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Rashad786/DSA-Assignment/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Rashad786/DSA-Assignment/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Rashad786/DSA-Assignment/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1590-make-sum-divisible-by-p](https://github.com/Rashad786/DSA-Assignment/tree/master/1590-make-sum-divisible-by-p) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rashad786/DSA-Assignment/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Rashad786/DSA-Assignment/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rashad786/DSA-Assignment/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Rashad786/DSA-Assignment/tree/master/1480-running-sum-of-1d-array) |
+| [1590-make-sum-divisible-by-p](https://github.com/Rashad786/DSA-Assignment/tree/master/1590-make-sum-divisible-by-p) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rashad786/DSA-Assignment/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Rashad786/DSA-Assignment/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/Rashad786/DSA-Assignment/tree/master/2625-increment-submatrices-by-one) |
