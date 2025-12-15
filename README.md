@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/Rashad786/DSA-Assignment/tree/master/1590-make-sum-divisible-by-p) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Rashad786/DSA-Assignment/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Rashad786/DSA-Assignment/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Rashad786/DSA-Assignment/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Rashad786/DSA-Assignment/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rashad786/DSA-Assignment/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Rashad786/DSA-Assignment/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Rashad786/DSA-Assignment/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Rashad786/DSA-Assignment/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1925-count-square-sum-triples](https://github.com/Rashad786/DSA-Assignment/tree/master/1925-count-square-sum-triples) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Rashad786/DSA-Assignment/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Rashad786/DSA-Assignment/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3433-count-mentions-per-user](https://github.com/Rashad786/DSA-Assignment/tree/master/3433-count-mentions-per-user) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Rashad786/DSA-Assignment/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/Rashad786/DSA-Assignment/tree/master/1250-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Rashad786/DSA-Assignment/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Rashad786/DSA-Assignment/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Rashad786/DSA-Assignment/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Rashad786/DSA-Assignment/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Memoization
 |  |
