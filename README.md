@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/Rashad786/DSA-Assignment/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/Rashad786/DSA-Assignment/tree/master/1250-longest-common-subsequence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Rashad786/DSA-Assignment/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1768-merge-strings-alternately](https://github.com/Rashad786/DSA-Assignment/tree/master/1768-merge-strings-alternately) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rashad786/DSA-Assignment/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3606-coupon-code-validator](https://github.com/Rashad786/DSA-Assignment/tree/master/3606-coupon-code-validator) |
 ## Greedy
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rashad786/DSA-Assignment/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Rashad786/DSA-Assignment/tree/master/0189-rotate-array) |
+| [1768-merge-strings-alternately](https://github.com/Rashad786/DSA-Assignment/tree/master/1768-merge-strings-alternately) |
 ## Linked List
 |  |
 | ------- |
