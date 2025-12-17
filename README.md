@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Rashad786/DSA-Assignment/tree/master/1013-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Rashad786/DSA-Assignment/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Rashad786/DSA-Assignment/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1137-n-th-tribonacci-number](https://github.com/Rashad786/DSA-Assignment/tree/master/1137-n-th-tribonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Rashad786/DSA-Assignment/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Rashad786/DSA-Assignment/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Rashad786/DSA-Assignment/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/Rashad786/DSA-Assignment/tree/master/0918-maximum-sum-circular-subarray) |
 | [0923-super-egg-drop](https://github.com/Rashad786/DSA-Assignment/tree/master/0923-super-egg-drop) |
 | [1013-fibonacci-number](https://github.com/Rashad786/DSA-Assignment/tree/master/1013-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Rashad786/DSA-Assignment/tree/master/1137-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Rashad786/DSA-Assignment/tree/master/1250-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Rashad786/DSA-Assignment/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Rashad786/DSA-Assignment/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Rashad786/DSA-Assignment/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Rashad786/DSA-Assignment/tree/master/1013-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Rashad786/DSA-Assignment/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
