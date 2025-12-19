@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Rashad786/DSA-Assignment/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Rashad786/DSA-Assignment/tree/master/0199-binary-tree-right-side-view) |
 | [0279-perfect-squares](https://github.com/Rashad786/DSA-Assignment/tree/master/0279-perfect-squares) |
+| [2092-find-all-people-with-secret](https://github.com/Rashad786/DSA-Assignment/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/Rashad786/DSA-Assignment/tree/master/3863-power-grid-maintenance) |
 ## Binary Search
 |  |
@@ -178,17 +179,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Rashad786/DSA-Assignment/tree/master/0199-binary-tree-right-side-view) |
 | [0337-house-robber-iii](https://github.com/Rashad786/DSA-Assignment/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Rashad786/DSA-Assignment/tree/master/0543-diameter-of-binary-tree) |
+| [2092-find-all-people-with-secret](https://github.com/Rashad786/DSA-Assignment/tree/master/2092-find-all-people-with-secret) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Rashad786/DSA-Assignment/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3863-power-grid-maintenance](https://github.com/Rashad786/DSA-Assignment/tree/master/3863-power-grid-maintenance) |
 ## Union Find
 |  |
 | ------- |
 | [0990-satisfiability-of-equality-equations](https://github.com/Rashad786/DSA-Assignment/tree/master/0990-satisfiability-of-equality-equations) |
+| [2092-find-all-people-with-secret](https://github.com/Rashad786/DSA-Assignment/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/Rashad786/DSA-Assignment/tree/master/3863-power-grid-maintenance) |
 ## Graph
 |  |
 | ------- |
 | [0990-satisfiability-of-equality-equations](https://github.com/Rashad786/DSA-Assignment/tree/master/0990-satisfiability-of-equality-equations) |
+| [2092-find-all-people-with-secret](https://github.com/Rashad786/DSA-Assignment/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/Rashad786/DSA-Assignment/tree/master/3863-power-grid-maintenance) |
 ## Ordered Set
 |  |
@@ -284,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Rashad786/DSA-Assignment/tree/master/1262-greatest-sum-divisible-by-three) |
+| [2092-find-all-people-with-secret](https://github.com/Rashad786/DSA-Assignment/tree/master/2092-find-all-people-with-secret) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rashad786/DSA-Assignment/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3433-count-mentions-per-user](https://github.com/Rashad786/DSA-Assignment/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/Rashad786/DSA-Assignment/tree/master/3531-count-covered-buildings) |
