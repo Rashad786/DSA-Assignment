@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0756-pyramid-transition-matrix](https://github.com/Rashad786/DSA-Assignment/tree/master/0756-pyramid-transition-matrix) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Rashad786/DSA-Assignment/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/Rashad786/DSA-Assignment/tree/master/1590-make-sum-divisible-by-p) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rashad786/DSA-Assignment/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Rashad786/DSA-Assignment/tree/master/0115-distinct-subsequences) |
 | [0474-ones-and-zeroes](https://github.com/Rashad786/DSA-Assignment/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Rashad786/DSA-Assignment/tree/master/0516-longest-palindromic-subsequence) |
+| [0756-pyramid-transition-matrix](https://github.com/Rashad786/DSA-Assignment/tree/master/0756-pyramid-transition-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Rashad786/DSA-Assignment/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Rashad786/DSA-Assignment/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Rashad786/DSA-Assignment/tree/master/0990-satisfiability-of-equality-equations) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0756-pyramid-transition-matrix](https://github.com/Rashad786/DSA-Assignment/tree/master/0756-pyramid-transition-matrix) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rashad786/DSA-Assignment/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Counting
 |  |
@@ -356,4 +359,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0679-24-game](https://github.com/Rashad786/DSA-Assignment/tree/master/0679-24-game) |
+| [0756-pyramid-transition-matrix](https://github.com/Rashad786/DSA-Assignment/tree/master/0756-pyramid-transition-matrix) |
 <!---LeetCode Topics End-->
