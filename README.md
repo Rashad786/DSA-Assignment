@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Rashad786/DSA-Assignment/tree/master/0474-ones-and-zeroes) |
 | [0679-24-game](https://github.com/Rashad786/DSA-Assignment/tree/master/0679-24-game) |
 | [0747-min-cost-climbing-stairs](https://github.com/Rashad786/DSA-Assignment/tree/master/0747-min-cost-climbing-stairs) |
+| [0840-magic-squares-in-grid](https://github.com/Rashad786/DSA-Assignment/tree/master/0840-magic-squares-in-grid) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Rashad786/DSA-Assignment/tree/master/0918-maximum-sum-circular-subarray) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Rashad786/DSA-Assignment/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Rashad786/DSA-Assignment/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0756-pyramid-transition-matrix](https://github.com/Rashad786/DSA-Assignment/tree/master/0756-pyramid-transition-matrix) |
+| [0840-magic-squares-in-grid](https://github.com/Rashad786/DSA-Assignment/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Rashad786/DSA-Assignment/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/Rashad786/DSA-Assignment/tree/master/1590-make-sum-divisible-by-p) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rashad786/DSA-Assignment/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/Rashad786/DSA-Assignment/tree/master/0233-number-of-digit-one) |
 | [0279-perfect-squares](https://github.com/Rashad786/DSA-Assignment/tree/master/0279-perfect-squares) |
 | [0679-24-game](https://github.com/Rashad786/DSA-Assignment/tree/master/0679-24-game) |
+| [0840-magic-squares-in-grid](https://github.com/Rashad786/DSA-Assignment/tree/master/0840-magic-squares-in-grid) |
 | [0923-super-egg-drop](https://github.com/Rashad786/DSA-Assignment/tree/master/0923-super-egg-drop) |
 | [1013-fibonacci-number](https://github.com/Rashad786/DSA-Assignment/tree/master/1013-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Rashad786/DSA-Assignment/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0840-magic-squares-in-grid](https://github.com/Rashad786/DSA-Assignment/tree/master/0840-magic-squares-in-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Rashad786/DSA-Assignment/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/Rashad786/DSA-Assignment/tree/master/2625-increment-submatrices-by-one) |
 ## Sorting
