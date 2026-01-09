@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rashad786/DSA-Assignment/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Rashad786/DSA-Assignment/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3606-coupon-code-validator](https://github.com/Rashad786/DSA-Assignment/tree/master/3606-coupon-code-validator) |
+| [3798-largest-even-number](https://github.com/Rashad786/DSA-Assignment/tree/master/3798-largest-even-number) |
 ## Greedy
 |  |
 | ------- |
