@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0756-pyramid-transition-matrix](https://github.com/Rashad786/DSA-Assignment/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/Rashad786/DSA-Assignment/tree/master/0840-magic-squares-in-grid) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Rashad786/DSA-Assignment/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Rashad786/DSA-Assignment/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Rashad786/DSA-Assignment/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/Rashad786/DSA-Assignment/tree/master/1590-make-sum-divisible-by-p) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Rashad786/DSA-Assignment/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Rashad786/DSA-Assignment/tree/master/0199-binary-tree-right-side-view) |
 | [0279-perfect-squares](https://github.com/Rashad786/DSA-Assignment/tree/master/0279-perfect-squares) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Rashad786/DSA-Assignment/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Rashad786/DSA-Assignment/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/Rashad786/DSA-Assignment/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/Rashad786/DSA-Assignment/tree/master/3863-power-grid-maintenance) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Rashad786/DSA-Assignment/tree/master/0199-binary-tree-right-side-view) |
 | [0337-house-robber-iii](https://github.com/Rashad786/DSA-Assignment/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Rashad786/DSA-Assignment/tree/master/0543-diameter-of-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Rashad786/DSA-Assignment/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Rashad786/DSA-Assignment/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/Rashad786/DSA-Assignment/tree/master/2092-find-all-people-with-secret) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Rashad786/DSA-Assignment/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Rashad786/DSA-Assignment/tree/master/0199-binary-tree-right-side-view) |
 | [0337-house-robber-iii](https://github.com/Rashad786/DSA-Assignment/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Rashad786/DSA-Assignment/tree/master/0543-diameter-of-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Rashad786/DSA-Assignment/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Rashad786/DSA-Assignment/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Rashad786/DSA-Assignment/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Binary Tree
@@ -265,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Rashad786/DSA-Assignment/tree/master/0199-binary-tree-right-side-view) |
 | [0337-house-robber-iii](https://github.com/Rashad786/DSA-Assignment/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Rashad786/DSA-Assignment/tree/master/0543-diameter-of-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Rashad786/DSA-Assignment/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Rashad786/DSA-Assignment/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Two Pointers
 |  |
