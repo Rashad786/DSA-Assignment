@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/Rashad786/DSA-Assignment/tree/master/0337-house-robber-iii) |
 | [0474-ones-and-zeroes](https://github.com/Rashad786/DSA-Assignment/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Rashad786/DSA-Assignment/tree/master/0516-longest-palindromic-subsequence) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Rashad786/DSA-Assignment/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0747-min-cost-climbing-stairs](https://github.com/Rashad786/DSA-Assignment/tree/master/0747-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Rashad786/DSA-Assignment/tree/master/0918-maximum-sum-circular-subarray) |
 | [0923-super-egg-drop](https://github.com/Rashad786/DSA-Assignment/tree/master/0923-super-egg-drop) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Rashad786/DSA-Assignment/tree/master/0115-distinct-subsequences) |
 | [0474-ones-and-zeroes](https://github.com/Rashad786/DSA-Assignment/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Rashad786/DSA-Assignment/tree/master/0516-longest-palindromic-subsequence) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Rashad786/DSA-Assignment/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/Rashad786/DSA-Assignment/tree/master/0756-pyramid-transition-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Rashad786/DSA-Assignment/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Rashad786/DSA-Assignment/tree/master/0955-delete-columns-to-make-sorted-ii) |
