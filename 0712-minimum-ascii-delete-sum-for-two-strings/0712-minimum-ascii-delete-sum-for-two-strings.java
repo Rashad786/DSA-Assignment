@@ -29,15 +29,12 @@ class Solution {
         // for(int[]row: dp) Arrays.fill(row, -1);
         // return solve(m, n, s1, s2);
 
-        for(int j=0;j<=n;j++) {
-            int temp=0;
-            for(int k=j;k>0;k--) temp += (int)s2.charAt(k-1);
-            dp[0][j] = temp;
+        for (int i = 1; i <= m; i++) {
+            dp[i][0] = dp[i-1][0] + (int) s1.charAt(i-1);
         }
-        for(int i=0;i<=m;i++) {
-            int temp=0;
-            for(int k=i;k>0;k--) temp += (int)s1.charAt(k-1);
-            dp[i][0] = temp;
+
+        for (int j = 1; j <= n; j++) {
+            dp[0][j] = dp[0][j-1] + (int) s2.charAt(j-1);
         }
 
         for(int i=1;i<=m;i++) {
