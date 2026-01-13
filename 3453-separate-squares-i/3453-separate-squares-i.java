@@ -7,7 +7,6 @@ class Solution {
             if(y+s<=mid) lower += (double)s*s;
             else if(y<mid) lower += (mid-y)*s;
         }
-        System.out.println(lower);
         return lower;
     }
     public double separateSquares(int[][] squares) {
@@ -23,7 +22,7 @@ class Solution {
             tArea += (double)squares[i][2]*squares[i][2];
         }
 
-        for (int i = 0; i < 100; i++) {
+        while(high-low > 1e-5) {
             double mid = low + (high - low) / 2.0;
             double cArea = lArea(mid, squares);
             if(cArea < tArea/2.0) low=mid;
