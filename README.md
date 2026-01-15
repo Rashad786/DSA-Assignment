@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2618-maximize-the-minimum-powered-city](https://github.com/Rashad786/DSA-Assignment/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/Rashad786/DSA-Assignment/tree/master/2625-increment-submatrices-by-one) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Rashad786/DSA-Assignment/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/Rashad786/DSA-Assignment/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Rashad786/DSA-Assignment/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Rashad786/DSA-Assignment/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Rashad786/DSA-Assignment/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/Rashad786/DSA-Assignment/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2092-find-all-people-with-secret](https://github.com/Rashad786/DSA-Assignment/tree/master/2092-find-all-people-with-secret) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rashad786/DSA-Assignment/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/Rashad786/DSA-Assignment/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Rashad786/DSA-Assignment/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3433-count-mentions-per-user](https://github.com/Rashad786/DSA-Assignment/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/Rashad786/DSA-Assignment/tree/master/3531-count-covered-buildings) |
