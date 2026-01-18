@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Rashad786/DSA-Assignment/tree/master/1480-running-sum-of-1d-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/Rashad786/DSA-Assignment/tree/master/1590-make-sum-divisible-by-p) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Rashad786/DSA-Assignment/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1895-largest-magic-square](https://github.com/Rashad786/DSA-Assignment/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Rashad786/DSA-Assignment/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Rashad786/DSA-Assignment/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Rashad786/DSA-Assignment/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Rashad786/DSA-Assignment/tree/master/1480-running-sum-of-1d-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/Rashad786/DSA-Assignment/tree/master/1590-make-sum-divisible-by-p) |
+| [1895-largest-magic-square](https://github.com/Rashad786/DSA-Assignment/tree/master/1895-largest-magic-square) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rashad786/DSA-Assignment/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Rashad786/DSA-Assignment/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Rashad786/DSA-Assignment/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0733-flood-fill](https://github.com/Rashad786/DSA-Assignment/tree/master/0733-flood-fill) |
 | [0840-magic-squares-in-grid](https://github.com/Rashad786/DSA-Assignment/tree/master/0840-magic-squares-in-grid) |
+| [1895-largest-magic-square](https://github.com/Rashad786/DSA-Assignment/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Rashad786/DSA-Assignment/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Rashad786/DSA-Assignment/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/Rashad786/DSA-Assignment/tree/master/2625-increment-submatrices-by-one) |
