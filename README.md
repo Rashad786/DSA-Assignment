@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/Rashad786/DSA-Assignment/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3033-modify-the-matrix](https://github.com/Rashad786/DSA-Assignment/tree/master/3033-modify-the-matrix) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Rashad786/DSA-Assignment/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Rashad786/DSA-Assignment/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Rashad786/DSA-Assignment/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3433-count-mentions-per-user](https://github.com/Rashad786/DSA-Assignment/tree/master/3433-count-mentions-per-user) |
 | [3453-separate-squares-i](https://github.com/Rashad786/DSA-Assignment/tree/master/3453-separate-squares-i) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0756-pyramid-transition-matrix](https://github.com/Rashad786/DSA-Assignment/tree/master/0756-pyramid-transition-matrix) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rashad786/DSA-Assignment/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Rashad786/DSA-Assignment/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Counting
 |  |
 | ------- |
